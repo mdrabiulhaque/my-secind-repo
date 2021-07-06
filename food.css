@@ -131,26 +131,26 @@ font-weight: bold;
 .about{
     width: 100%;
     height: 300px;
-    border-width: 1px;
-    border-color: black;
-    border-style: solid;
+   
     display: flex;
+    background-image: url(img/7.png);
+}
+.about img{
+    width:100%;
+    height:300px;
 }
 .about-a{
     width: 50%;
     height: 300px;
-    border-width: 1px;
-    border-color: black;
-    border-style: solid;  
+    
     padding-right: 200px;
   
 }
 .about-b{
     width: 50%;
     height: 300px;
-    border-width: 1px;
-    border-color: black;
-    border-style: solid;  
+    
     padding-right: 200px;
+    padding-top: 80px;
   
 }
